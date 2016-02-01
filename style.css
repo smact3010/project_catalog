@@ -21,7 +21,7 @@ nav {
     background-color: #FFFFFF;
     box-shadow: 0em 0.25em 0.5em #777777;
     margin: 0.5em 1em;
-    padding: 0.5em 0.5em 0 0.5em;
+    padding: 0.5em 0 0 1em;
 }
 main {
 }
@@ -29,6 +29,7 @@ section {
     background-color: #FFFFFF;
     box-shadow: 0em 0.25em 0.5em #777777;
     margin: 0.5em 1em;
+    overflow: auto;
     padding: 0.5em 1em;
 }
 
@@ -97,10 +98,17 @@ li {
     margin: 0 0.5em 0.5em 0;
     cursor: pointer;
 }
-.idea-box {
+.status-link {
+    border: none;
+    color: white;
+}
+.sticky-note {
     background: linear-gradient(135deg, #ffff88 81%,#ffff88 82%,#ffff88 82%,#ffffc6 100%); /* W3C */
     background-color: #EAE44B;
     box-shadow: 0em 0.25em 0.5em #777777;
-    max-width: 200px;
+    float: right;
+    height: 10em;
+    margin-left: 0.5em;
+    width: 10em;
     padding: 1em;
 }
