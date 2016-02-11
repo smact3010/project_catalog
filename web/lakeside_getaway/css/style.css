@@ -1,0 +1,169 @@
+/* style.css */
+
+/**/
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #222222;
+	padding: 0 2em;
+	background-color: #e1efef;
+	background-image: url('img/water.jpg');
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+
+#header {
+	margin: .25em;
+	text-align: center;
+}
+
+#header img {
+	border: none;
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+}
+
+#header p {
+	font-size: 1.1em;
+	font-style: italic;
+}
+
+#wrapper_content {
+	background-color: #FFFFFF;
+	background-image: url('img/content_bg.jpg'); /* 800x768 */
+	background-position: right top;
+	background-repeat: no-repeat;
+	border: .09em solid #DDDDDD;
+	padding: 1em 2em;
+}
+
+#nav {
+	margin: .25em;
+	text-align: center;
+}
+
+#nav ul {
+	list-style-type: none;
+}
+
+#nav li {
+	display: inline-block;
+	overflow: hidden;
+	min-width: 10%;
+}
+
+#nav a {
+	background-color: #ffea42;
+	border: .09em solid #DDDDDD;
+	color: #222222;
+	display: block;
+	padding: .25em;
+	text-decoration: none;
+}
+
+#nav a:hover, a:active {
+	background-color: #FFEA53;
+	border: .09em solid #EEEEEE;
+	color: #555555;
+}
+
+.content {
+	background-color: #FFFFFF;
+	border: .09em solid #DDDDDD;
+	margin: 1em auto;
+	padding: .5em 2em;
+}
+
+.content img {
+	border: none;
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+}
+
+.content h3 {
+	margin: .5em 0
+}
+
+#policies h1 {
+	border-bottom: 1px solid black;
+}
+
+#policies h2 {
+  margin-top: 1em;
+}
+
+#policies ul {
+  margin: .5em 0 0 2em;
+}
+
+#footer {
+	margin: .5em 0 1.5em 0;
+	text-align: center;
+}
+
+#footer p{
+	margin: 0 0 1em 0;
+}
+
+#copyright {
+	font-size: 0.750em;
+}
+
+.div_table {
+	border: .09em solid #DDDDDD;
+	margin: .4em;
+	padding: .1em;
+}
+
+.div_table img {
+	float: left;
+}
+
+.div_table p {
+	border: .09em 0px solid #DDDDDD;
+	padding: .25em;
+}
+
+.div_table .heading {
+	 background-color: #CCCCCC;
+}
+
+.div_table p.alt {
+	background-color: #EEEEEE;
+}
+
+.row {
+	border: .09em solid #DDDDDD;
+	margin: .4em;
+	padding: .1em;
+}
+
+.row p {
+	border: .09em 0px solid #DDDDDD;
+	padding: .25em;
+}
+
+.column {
+	max-width: 30%;
+}
+
+.rates {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	min-width: 10%;
+}
+
+.thumbnail {
+  box-shadow: .125em .125em .125em #AAAAAA;
+  margin: .5em;
+  padding: .5em;	
+}
+
+.image_table img {
+	border: .09em solid #DDDDDD;
+	margin: .4em;
+	padding: .1em;
+	max-width: 30%;
+}

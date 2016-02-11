@@ -1,0 +1,173 @@
+/* style.css */
+
+/**/
+body {
+	color: #222222;
+	padding: 0 2em;
+	background-color: #e1efef;
+}
+
+header {
+	margin: .25em;
+	text-align: center;
+}
+
+header img {
+    border: none;
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+
+header p {
+	font-size: 1.1em;
+	font-style: italic;
+}
+
+nav {
+	margin: .25em;
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+nav li {
+	display: inline-block;
+	overflow: hidden;
+	min-width: 10%;
+}
+
+nav a {
+	background-color: #ffea42;
+	border: .09em solid #DDDDDD;
+	display: block;
+	padding: .25em;
+	/*text-decoration: none;*/
+}
+
+nav a:hover, a:active {
+	background-color: #FFEA53;
+	border: .09em solid #EEEEEE;
+}
+
+#wrapper {
+	background-color: #FFFFFF;
+	background-image: url("../img/content_bg.jpg");
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	border: .09em solid #BBBBBB;
+	padding: .5em 4em;
+}
+
+section {
+  background-color: #FFFFFF;
+	border: .09em solid #BBBBBB;
+	margin: .5em auto;
+	padding: .5em 1em;
+}
+
+section img {
+	max-width: 100%;
+}
+
+section .room_info {
+	border: 0;
+	clear: both;
+}
+
+.room_info h3, h4 {
+	border-bottom: .09em solid #DDDDDD;
+}
+
+footer {
+	margin: .5em 0 1.5em 0;
+	text-align: center;
+}
+
+footer p{
+	margin: 0 0 1em 0;
+}
+
+.image_container img {
+	float: left;
+  margin: .25em .5em .25em .25em;
+  max-width: 25%;
+	min-width: 20%;
+}
+
+.less.active .button-read-more {
+    display: none;
+}
+.button-read-less {
+    display: none;
+}
+.less.active .button-read-less {
+    display: block;
+}
+.more {
+    margin-top: 5px;
+}
+
+#policies {
+  padding: 2em 4em;
+}
+
+#policies h1, h2, h3 {
+	margin-top: .5em;
+}
+
+#policies h1 {
+	border-bottom: 1px solid black;
+}
+
+#policies ul {
+  margin: .5em 0 0 2em;
+}
+
+#copyright {
+	font-size: 0.750em;
+}
+
+.div_table {
+	border: .09em solid #DDDDDD;
+	margin: 0.125em 0.0625em;
+	padding: 0.125em;
+}
+
+.div_table .column {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.div_table img {
+	float: left;
+}
+
+.div_table p {
+	padding: 0.125em;
+}
+
+.div_table .heading {
+	 background-color: #CCCCCC;
+}
+
+.div_table p.alt {
+	background-color: #EEEEEE;
+}
+
+.thumbnail {
+  box-shadow: .125em .125em .125em #AAAAAA;
+  margin: .5em;
+  padding: .5em;	
+}
+
+.image_table img {
+	border: .09em solid #DDDDDD;
+	margin: .4em;
+	padding: .1em;
+	max-width: 30%;
+}

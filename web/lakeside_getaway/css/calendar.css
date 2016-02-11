@@ -1,0 +1,52 @@
+/* calendar.css */
+
+/* div id="cal_container" */
+#cal_container {
+ 
+}
+
+/* h2 class="year" */
+.year {
+	border-bottom: 2px solid black;
+	margin: .25em;
+}
+
+/* div class="month" */
+.month {
+	margin: .25em;
+}
+
+/* p class="title" */
+.title {
+	border-bottom: 1px solid #999999;
+	margin: .25em;
+}
+
+/* table class="calendar" */
+.calendar {
+	margin: .25em;
+}
+
+/* span class="date" */
+.date {
+
+}
+
+td {
+	padding: .25em;
+}
+
+/* td class="blue" */
+.blue {
+	background-color: #B8CCE4;
+}
+
+/* td class="yellow" */
+.yellow {
+	background-color: #FEFF99;
+}
+
+/* td class="red" */
+.red {
+	background-color: #d99594;
+}
