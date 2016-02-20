@@ -1,0 +1,221 @@
+Fluid Layout Design/Implementation: 8 hr - no charge, not requested
+HTML 5 Conversion: 8 hr - no charge, not requested
+JavaScript Sliding Toggles: 4 hr - no charge, not requested
+PHP Calendar Application: 8 hr - no charge, not requested
+
+Time 03/02/15 1 hr (INDEX and POLICIES)
+     03/07/15 2 hr (ROOMS)
+     03/20/15 1 hr (RATES)
+     03/21/15 1 hr (AMENITIES / PHOTOS)
+     03/31/15 2 hr Revisions
+
+# ----------------------------------------
+# HOME (/index.php)
+# ________________________________________
+
+***** Text changes *****
+Status: completed
+
+-Remove:
+  "We strive to provide our customers" 
++Replace with:
+  "You will enjoy"
+
+-Remove:
+  "What separates us from others is how much we appreciate peace, quiet and a friendly relaxed atmosphere."
+
+# ----------------------------------------
+# ROOMS (/rooms.php)
+# ________________________________________
+
+***** Text changes *****
+Status: completed
+
+Location:
+  Under the Regular Room photo, where it describes the beds
+
+-Remove:
+  (2) Full Beds
++Replace with:
+  (2) Queen beds.
+
+
+Location:
+  Under the Kitchen Photo
+
+-Remove:
+  "3 Units," "(3) Beds"
++Replace with:
+  "2 Units," "(3) Queen Beds"
+
+-Remove:
+  Kitchens photo collection, third kitchen unit, delete the photos associated with Kitchen #7
+
+Location:
+  Bottom of page
+
+-Remove:
+  "Limited wireless internet available" - delete anything that says 'wi-fi'
+
+***** Revisions 3/26 *****
+Status: Completed
+
+-Replace:
+  The name of each room from units to rooms:
+    7 Regular rooms
+    2 View Rooms
+    1 Shack
+    1 Cabin
+    2 Kithen Rooms
+
+-Replace:
+  The "Full Size Coffee Maker with supplies" to "Coffee Maker with supplies"   {deleting the Full Size verbage---We may change coffee pot sizes).
+
+-Remove:
+  The last item on the rooms page is the Rate with the drop down arrow.  The prices listed are confusing if one does not hit the "View Calendar" icon.  We think it would be better NOT to give choice of listed  prices and then option to hit calendar menu.  Just make it go straight to the calendar rates.
+
+***** Additons *****
+Status: Completed
+
++Add:
+  Room - "The Shack"
+    Photos
+      Cover Image
+      Bedroom
+      Bathroom
+
+    Description
+      (1) Unit
+      Limit (2) Persons*
+      (1) King Bed
+
+       Television
+       Microwave
+       coffee maker
+       Small Dorm Fridge
+       Bathroom with shower
+
+  Great View of the Lake, Large side window to see lake from inside room.
+  Unit sits by itself near entrance.  Small front porch with sitting chairs
+
+
+# ----------------------------------------
+# RATES (/rates.php)
+# ________________________________________
+
+Status: started
+
+ ***** incomplete *****
++Add:
+  Correct dates for the current year
+  Color coding for dates
+
+-Remove:
+  Rates (color code table)
+  Summer/Holiday
+  Spring/Fall Discounted
+  Winter
+
++Add:
+  List the Shack between View and Cabin for the prices.
+     Prices for the Shack 
+        Blue Rates   Yellow Rates   Red Rates
+            $55.00           $70.00          $90.00
+
+# ----------------------------------------
+# DIRECTIONS (/directions.php)
+# ________________________________________
+
+Status: complete
+  No changes
+
+***** Revisions 3/26 *****
+Status: complete
+
+-Replace:
+  In the Directions from Tyler,Texas paragraph, replace the words  "you will see a yellow caution blinking light" with: "continue about 1/2 mile to yellow blinking caution light."
+
+-Replace:
+  In the Directions from Frankston, Texas paragraph, replace the words "Go to the yellow blinking light" with: "continue about 1/2 mile to yellow blinking caution light."
+
+# ----------------------------------------
+# POLICIES (/policies.php)
+# ________________________________________
+
+Status: completed
+
+Location:
+  Under Cancellations section: Under Title of Single Room Reservations, where it says "Three days prior to reservation"
+        
++Add:
+  (Except for Holidays--listed below)*
+
+-Remove:
+  Multiple Room Reservation (Two or More)
+
++Replace with:
+  Multiple Room Reservations (2 or 3 rooms)
+
++Add:
+  * at end of Holiday Reservation
+
+-Remove:
+  One week prior to reservation (single room)
+  Two weeks prior to reservation (multiple room)
+
++Replace with:
+  Two week prior to reservation (single room)
+  1 Month prior to reservation (multiple room)
+
+  Holidays are:      
+  The week of July 4th     
+  Memorial Day Weekend
+  Labor Day Weekend
+
+-Remove:
+  Unregistered Guests
++Replace with:
+  Guests (Remove “Unregistered”)
+
+***** Revisions 3/26 *****
+Status: complete
+
+    1. Delete the first bullet line "Reservation required for check-in"
+    2. Edit Summer & Winter note to add "With Reservation"
+        Example:  Summer--3pm to 8pm with Reservation
+                        Winter--3pm to 7pm with Reservation
+    3.  Check-Out Memo:  Delete "Lake check out not allowed"
+                    replace with "No Late Check-outs"
+    4.  Under Minimum Stay:  Add the word "cancellation" as follows
+        "with non-refundable deposit and specific cancellation restrictions
+    5.  Multiple Room Reservation (2 or 3 rooms)  Delete the (2 or 3 rooms). 
+    6. Change verbage under "Multiple Room Reservation" as follows:
+        2 Rooms--must have One week notice prior to reservation. 
+    6.  Add 2nd bullet under Multiple Room Reservaton as follows
+
+       Three or more Rooms will have Specific cancellation policy done at time of Reservation
+
+    7.  Under "Guests", add another bullet memo at end as follows:
+        "Minor children must be supervised by an adult at all times"
+
+# ----------------------------------------
+# PHOTOS (/photos.php)
+# ________________________________________
+
+Status: not started
+
+Location: 
+  Photos 'navigation link'
+
+-Remove:
+  "Photos"
+
++Replace with:
+  "Amenities/Photos"
+  
+The photos tab, starts out and shows several pictures.  I want the Amenities listed first, then the photos 2nd.
+
+I'm sending you a text picture of our boat launch.  I want to add this to the list of other photos. Can you put the words:
+Boat Launch imposed on the picture.
+
+The only verbage change for the listed amenities is delete the word Minnows.  We no longer sell them, we still have worms & Ice.

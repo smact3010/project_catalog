@@ -1,0 +1,212 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/stephan/source/project_catalog/music/guitar_practice/guitar_practice.html",
+		"/home/stephan/source/project_catalog/music/guitar_practice/week_1.html",
+		"/home/stephan/source/project_catalog/category/project_name/project_status.html",
+		"/home/stephan/source/project_catalog/auto/engine/oil_pan/project_overview.html",
+		"/home/stephan/source/project_catalog/auto/fuel/tank_pump/project_overview.html",
+		"/home/stephan/source/project_catalog/category/project_name/increment_1.html",
+		"/home/stephan/source/project_catalog/category/project_name/project_overview.html",
+		"/home/stephan/source/project_catalog/drawing/container/container_drawing.html",
+		"/home/stephan/source/project_catalog/drawing/container/day_1.html",
+		"/home/stephan/source/project_catalog/drawing/container/day_2.html",
+		"/home/stephan/source/project_catalog/drawing/container/day_3.html",
+		"/home/stephan/source/project_catalog/drawing/container/day_4.html",
+		"/home/stephan/source/project_catalog/drawing/container/day_5.html",
+		"/home/stephan/source/project_catalog/drawing/container/day_6.html",
+		"/home/stephan/source/project_catalog/drawing/container/day_7.html",
+		"/home/stephan/source/project_catalog/drawing/container/images.html",
+		"/home/stephan/source/project_catalog/drawing/container/retrospective.html",
+		"/home/stephan/source/project_catalog/drawing/container/resources.html",
+		"/home/stephan/source/project_catalog/drawing/container/project_status.html",
+		"/home/stephan/source/project_catalog/day_6.html",
+		"/home/stephan/source/project_catalog/day_5.html",
+		"/home/stephan/source/project_catalog/day_4.html",
+		"/home/stephan/source/project_catalog/images.html",
+		"/home/stephan/source/project_catalog/day_7.html",
+		"/home/stephan/source/project_catalog/project_status.html",
+		"/home/stephan/source/project_catalog/container_drawing.html",
+		"/home/stephan/source/project_catalog/retrospective.html",
+		"/home/stephan/source/project_catalog/guitar_practice.html",
+		"/home/stephan/source/project_catalog/week_1.html",
+		"/home/stephan/source/project_catalog/owl_painting.html",
+		"/home/stephan/Desktop/auto_update.sh",
+		"/home/stephan/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/stephan/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/stephan/source/project_catalog/reset.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/stephan/source/project_catalog/drawing/container",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<a href=\"project_status.html\" class=\"status-link\">Status: Started",
+			"Started",
+			"src=\"project_icon_trans_200x200.png\"",
+			"src=\"light_bulb_yellow_edge_100x100.png\"",
+			"href=\"index.html\"",
+			"href=\"style.css\"",
+			"href=\"reset.css\"",
+			"href=\"style.css\"",
+			"href=\"reset.css\"",
+			"Isometric",
+			"Side",
+			"Major",
+			"<dd>",
+			"<dt>Step",
+			".jpg",
+			" style=\"text-align: center;\"",
+			"idea-box",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a href=\"project_status.html\" class=\"status-link\">Status: Completed",
+			"src=\"../../project_icon_trans_200x200.png\"",
+			"src=\"../../light_bulb_yellow_edge_100x100.png\"",
+			"href=\"../../index.html\"",
+			"href=\"../../style.css\"",
+			"href=\"../../reset.css\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true
+}

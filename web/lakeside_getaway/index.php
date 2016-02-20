@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<html>
 <head>
 <meta charset="UTF-8">
 <title>Lakeside Getaway | Home Page | Lake Palestine, Texas</title>
@@ -10,9 +9,8 @@
 </script>
 <![endif]-->
 
-<link rel="stylesheet" type="text/css" href="/css/master.css" media="screen" />
-
-<link rel="stylesheet" type="text/css" href="/css/style_new.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="./css/master.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="./css/style_new.css" media="screen" />
 
 </head>
 
